@@ -4,7 +4,7 @@ Acest cod implementează un joc simplu de matematică, în care utilizatorul tre
 
 Importurile bibliotecilor: Se importă bibliotecile "random" și "time" pentru generarea aleatoare și măsurarea timpului.
 
-Definirea operatorilor și operandilor: Se stabilesc operatorii (+, -, *, /) și limitele operandelor (de la 3 la 12) pentru problemele aritmetice.
+Definirea operatorilor și operanzilor: Se stabilesc operatorii (+, -, *, /) și limitele operanzilor (de la 3 la 12) pentru problemele aritmetice.
 
 Generarea problemelor: Funcția generate_problem() generează o problemă aritmetică aleatorie, inclusiv operatorul și operandele, și returnează atât expresia generată, cât și răspunsul corect.
 
